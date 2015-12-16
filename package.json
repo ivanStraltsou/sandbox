@@ -1,14 +1,14 @@
 {
   "name": "angular2-start",
   "version": "1.0.0",
-  "description": "",
+  "description": "1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "ivan_straltsou@epam.com",
+  "license": "MIT",
   "devDependencies": {
-    "pre-commit": "^1.1.2"
+   
   }
 }
